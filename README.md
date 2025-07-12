@@ -13,3 +13,6 @@ Used: GoPro Deblurring Dataset and custom image dataset (20 in number) for sampl
 
 ## How to Run
 Open the notebook in Google Colab  and run each cell in order.
+
+## Demo Video
+[Click this](https://drive.google.com/file/d/1GRetnfZIvkA2g2xBhwZKuKycSrsCTto5/view?usp=sharing) link to watch a demo video of the implementation of the model
