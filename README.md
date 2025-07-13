@@ -14,3 +14,5 @@ Used: 200 high-resolution (HR) samples sourced from the DIV2K dataset on Kaggle.
 ## How to Run
 Open the notebook in Google Colab  and run each cell in order.
 
+## Demo
+[Click this](https://drive.google.com/file/d/1QacBgKbU216iyh6GjzSRmHTQ9ot4HW1o/view?usp=sharing) for the demo video of the model
